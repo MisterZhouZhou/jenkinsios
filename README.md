@@ -1,3 +1,3 @@
 # jenkinsios
 jenkins下编译iOS
-测试自动化构建11
+测试自动化构建
